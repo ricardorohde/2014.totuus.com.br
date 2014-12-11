@@ -1,0 +1,11 @@
+.loadingSmall {
+	width: 25px;
+	height: 25px;
+	margin: 3px;
+}
+
+.loadingBig {
+	width: 40px;
+	height: 40px;
+	margin: 3px;
+}
