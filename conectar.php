@@ -2,7 +2,7 @@
 
 
 //nome do servidor (localhost)
-$servidor = "localhost";
+$servidor = "localhostt";
  
 //usu�rio do banco de dados
 $user = "root";
