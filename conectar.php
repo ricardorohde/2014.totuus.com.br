@@ -9,7 +9,7 @@ $user = "root";
  
 //senha do banco de dados
 $senha = "root";
- 
+      
 //nome da base de dados
 $db = "totuus";
  
